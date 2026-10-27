@@ -1,0 +1,1 @@
+const E={EMPLOYED:"就业",FURTHER_STUDY:"升学",ENTREPRENEUR:"自主创业",UNEMPLOYED:"待业"},T={SUBMITTED:"已投递",ACCEPTED:"已录取",REJECTED:"未通过"},D={PENDING:"待审核",APPROVED:"已通过",REJECTED:"未通过"},P={PENDING:"bg-warning text-dark",APPROVED:"bg-success",REJECTED:"bg-danger",SUBMITTED:"bg-primary",ACCEPTED:"bg-success"};export{T as A,P as B,E,D as a};
